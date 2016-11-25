@@ -1,0 +1,42 @@
+@font-face {
+    font-family: basic;
+    src: url(Hack-Regular.ttf);
+}
+
+@font-face {
+    font-family: bold;
+    src: url(Hack-Bold.ttf);
+}
+
+body {
+	padding-top: 3em;
+	text-align: center;
+	font-family: basic;
+	font-size: 2em;
+}
+
+b {
+	font-family: bold;
+}
+
+a {
+	color: green;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
