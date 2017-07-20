@@ -1,6 +1,9 @@
-List of algorithms and their applications I use in programming contests.
+Список алгоритмов и структур данных, а также их применение в контестах по программированию.
 # Strings
 ### Z-function
-- substring search
-- number of different substrings
-- string compression
+- поиск подстроки
+- число различных подстрок
+- сжатие строки
+### Prefix-function
+- поиск подстроки
+- подсчет числа вхождений каждого префикса
